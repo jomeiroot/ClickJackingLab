@@ -51,6 +51,11 @@
             // TODO: write a frame-busting function according to
             // instructions (Task 3)
 
+            if(window.top!==window.self){
+                window.top.location = window.self.location
+
+            }
+
 	}
 
     </script>
