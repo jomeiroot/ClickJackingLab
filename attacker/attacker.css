@@ -33,7 +33,7 @@ button{
     /* You will want to change the button's position on the page and 
        make the button transparent */
     color: red;  /* font color */
-    background-color: rgba(0,0,255,0.1);  /* button's background color */
+    background-color: transparent;  /* button's background color */
     color: transparent;
     
 
